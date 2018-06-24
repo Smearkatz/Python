@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/count-the-smiley-faces
+
 def count_smileys(arr):
     eyes = [':', ';']
     nose = ['-', '~']
